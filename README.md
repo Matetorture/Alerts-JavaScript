@@ -74,7 +74,7 @@ In the future, there will be an option for the alert to be displayed on the page
 
 </details>
 
-<details open>
+<details>
 <summary><h1>EXAMPLES</h1></summary>
 
 ## Types:
