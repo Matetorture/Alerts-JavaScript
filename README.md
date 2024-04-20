@@ -1,6 +1,16 @@
 # Alerts
 Alerts for use on websites. Written in Vanilla JavaScript
 
+<br>
+
+## SRC
+```diff
+- REMEMBER TO PUT THE SCRIPT LINE IN `<body></body>`
+
+<script src="https://webtochange.github.io/alerts/alert.js"></script>
+```
+(maybe this will change in the future, but for now the script must be in the body)
+
 <details>
 <summary><h1>HOW TO USE</h1></summary>
 
