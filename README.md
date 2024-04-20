@@ -1,5 +1,5 @@
 # Alerts
-Alerts for use on websites. Written in Vanilla JavaScript
+Alerts for use on websites. Written in JavaScript
 
 <br>
 
