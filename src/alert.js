@@ -1,3 +1,13 @@
+//==================================================
+//            _      _                 _   
+//           / \    | |   ___   _ __  | |_ 
+//          / _ \   | |  / _ \ | '__| | __|
+//         / ___ \  | | |  __/ | |    | |_ 
+//        /_/   \_\ |_|  \___| |_|     \__|
+//
+// https://github.com/Matetorture/Alerts-JavaScript
+//==================================================
+
 let alertContainer = document.createElement("div");
 alertContainer.id = "alert-container";
 document.body.appendChild(alertContainer);
