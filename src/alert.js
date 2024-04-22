@@ -1,8 +1,3 @@
-const link = document.createElement("link");
-link.href = "alert.css";
-link.rel = "stylesheet";
-document.head.appendChild(link);
-
 let alertContainer = document.createElement("div");
 alertContainer.id = "alert-container";
 document.body.appendChild(alertContainer);
