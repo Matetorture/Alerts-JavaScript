@@ -7,7 +7,7 @@ Alerts for use on websites. Written in JavaScript
 ```diff
 - REMEMBER TO PUT THE SCRIPT LINE IN `<body></body>`
 
-<script src="https://webtochange.github.io/alerts/alert.js"></script>
+<script src="https://webtochange.github.io/alert/alert.js"></script>
 ```
 (maybe this will change in the future, but for now the script must be in the body)
 
