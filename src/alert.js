@@ -31,6 +31,9 @@ const Alert = (msg, type = 0, removeTime = 0, redirect = "") => {
             alertWindow.classList.add('fade-out');
             setTimeout(() => {
                 alertWindow.remove();
+                if(!redirect == ""){
+                    window.location.href = redirect;
+                }
             }, 5000);
         }, removeTime);
     }

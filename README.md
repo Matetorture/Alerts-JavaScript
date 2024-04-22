@@ -73,7 +73,7 @@ Resoult:
 
 **default = ""**
 
-*the location where alert will redirect you when you close it (if it closes itself, it won't redirect you)*
+*the location where alert will redirect you when you close it (if it closes itself, it will redirect you)*
 
 <br>
 (the script in this version is currently executing: window.location.href = REDIRECT TO)
